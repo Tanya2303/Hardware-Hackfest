@@ -8,9 +8,9 @@ Plants require proper care and maintenance, including adequate watering, to thri
 
 On Safe Sphere users can:
 
-- Get the live information through the website.
 - Check the presence of any person in the area.
-- Keep track of the amount of water to be given to the plants.
+- Calculate the number of steps taken by the user.
+- Find the correct amount of water required for plants.
 - Check the temperature, humidity and pressure of the environment.
 
 ## ⚙️ How we built it
