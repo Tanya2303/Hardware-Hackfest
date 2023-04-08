@@ -8,7 +8,7 @@ Plants require proper care and maintenance, including adequate watering, to thri
 
 On Safe Sphere users can:
 
-- Get the weather forecast of the area.
+- Get the live information through the website.
 - Check the presence of any person in the area.
 - Keep track of the amount of water to be given to the plants.
 - Check the temperature, humidity and pressure of the environment.
